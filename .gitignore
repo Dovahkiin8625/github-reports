@@ -1,1 +1,8 @@
 .obsidian
+
+# secrets — never commit
+.env
+.env.*
+**/.env
+**/.env.*
+!scripts/.env.example
